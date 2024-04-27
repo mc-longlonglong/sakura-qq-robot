@@ -1,0 +1,57 @@
+{
+    "preference": {
+        "github_proxy": "https://mirror.ghproxy.com/",
+        "enable_connection_test": true,
+        "connection_test_interval": 30,
+        "timeout": 10,
+        "max_retry_times": 3,
+        "retry_interval": 2,
+        "timezone": "Asia/Shanghai",
+        "exchange_thread_count": 2,
+        "exchange_latency": [
+            0,
+            0.5
+        ],
+        "exchange_duration": 5,
+        "enable_log_output": true,
+        "log_head": "",
+        "log_path": "D:\\game\\qrobot\\qrobot-sakura\\data\\nonebot-plugin-mystool\\mystool.log",
+        "log_rotation": "1 week",
+        "plugin_name": "nonebot_plugin_mystool",
+        "encoding": "utf-8",
+        "max_user": 0,
+        "add_friend_accept": true,
+        "add_friend_welcome": true,
+        "command_start": "",
+        "sleep_time": 2,
+        "plan_time": "00:30",
+        "resin_interval": 60,
+        "geetest_url": null,
+        "geetest_params": null,
+        "geetest_json": {
+            "gt": "{gt}",
+            "challenge": "{challenge}"
+        },
+        "override_device_and_salt": false,
+        "enable_blacklist": false,
+        "blacklist_path": "D:\\game\\qrobot\\qrobot-sakura\\data\\nonebot-plugin-mystool\\blacklist.txt",
+        "enable_whitelist": false,
+        "whitelist_path": "D:\\game\\qrobot\\qrobot-sakura\\data\\nonebot-plugin-mystool\\whitelist.txt",
+        "enable_admin_list": false,
+        "admin_list_path": "D:\\game\\qrobot\\qrobot-sakura\\data\\nonebot-plugin-mystool\\admin_list.txt"
+    },
+    "good_list_image_config": {
+        "ICON_SIZE": [
+            600,
+            600
+        ],
+        "WIDTH": 2000,
+        "PADDING_ICON": 0,
+        "PADDING_TEXT_AND_ICON_Y": 125,
+        "PADDING_TEXT_AND_ICON_X": 10,
+        "FONT_PATH": null,
+        "FONT_SIZE": 50,
+        "SAVE_PATH": "D:\\game\\qrobot\\qrobot-sakura\\data\\nonebot-plugin-mystool",
+        "MULTI_PROCESS": true
+    }
+}

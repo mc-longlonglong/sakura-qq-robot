@@ -1,0 +1,86 @@
+{
+    "version": "v2.3.0",
+    "user_bind": {},
+    "users": {
+        "3309113612": {
+            "enable_notice": true,
+            "uuid": "17957730-254a-4696-90a1-e7f389bef24a",
+            "qq_guild": {},
+            "exchange_plans": [],
+            "accounts": {
+                "20416809": {
+                    "phone_number": "13816711301",
+                    "cookies": {
+                        "stuid": "20416809",
+                        "ltuid": "20416809",
+                        "account_id": "20416809",
+                        "login_uid": "20416809",
+                        "stoken_v1": "NkTyXZ04QQWU3R32c8IqiHQJkSUEawnyxBovwuQd",
+                        "stoken_v2": "v2_1ApogtXfxMWkJbCKB1ZhizZPLizTFBn43-rrRNYULDXQPmpjUhyHUPkZeRtqH89p5Nx34oe3eVPSqcFb95ZVYcqn2Z7QykK1uv7l0HzKwsImjmjw2AfTl9AjyBIyspcPXyw2pYvlD9FcVbI=.CAE=",
+                        "cookie_token": "nMKH5WB1b4wPuzyi6LPyV2If1Pvm4xO8qwdnLP7S",
+                        "login_ticket": "Ys7T3vMqrSJ3nfx4FvCDQtmXNUbMovyYBkWg6qZE",
+                        "ltoken": "7rVgn5keSZz6ALD1aqGp8cnICw2QRxzewLZCFbyC",
+                        "mid": "0zttt82zf6_mhy",
+                        "stoken": "NkTyXZ04QQWU3R32c8IqiHQJkSUEawnyxBovwuQd"
+                    },
+                    "address": null,
+                    "device_id_ios": "8AEEE8B9-99D8-4DDA-974E-1436A8F8F60B",
+                    "device_id_android": "59EF93DF-0096-4B47-941D-FF944549970F",
+                    "device_fp": "38d7f9b4b2228",
+                    "enable_mission": true,
+                    "enable_game_sign": true,
+                    "enable_resin": true,
+                    "enable_weibo": false,
+                    "platform": "ios",
+                    "mission_games": [
+                        "StarRailMission"
+                    ],
+                    "user_stamina_threshold": 240,
+                    "user_resin_threshold": 2,
+                    "weibo_cookie": "",
+                    "weibo_params": ""
+                }
+            }
+        },
+        "2058777361": {
+            "enable_notice": true,
+            "uuid": "56cfe906-1291-4a7b-9e79-3add7ef6e0df",
+            "qq_guild": {},
+            "exchange_plans": [],
+            "accounts": {
+                "71155466": {
+                    "phone_number": "18930566745",
+                    "cookies": {
+                        "stuid": "71155466",
+                        "ltuid": "71155466",
+                        "account_id": "71155466",
+                        "login_uid": "71155466",
+                        "stoken_v1": "Y70FJJQ6ig0TYFipDnNUp42u8TFdr0Vkco7JkIDr",
+                        "stoken_v2": "v2_T3E6MjvcTdK12IfmlxCyXIN9RB-OnyG3AwmRCcgAmOjy9kjSCV3bCFoChZPKHrySyOabJTsHxL0yg5EBn7SXjJihUstQ0qvfFcsSEGFwgF1PZkT1oYbR6yhw2IFkq3xrS1-vMEcrC64htVQ=.CAE=",
+                        "cookie_token": "dVxSA9qqqhqdWleeEVMsDvl2JNKEZykNet1V1PB5",
+                        "login_ticket": "Cf3ovrkeX6tKl1QpvpPXbYBXH5aH6XWwmtunv4t1",
+                        "ltoken": "Fha7S5c8Te9uTnqpP5DtrGaUPEkZGYL4KMdRm7Qd",
+                        "mid": "0yv3l64tid_mhy",
+                        "stoken": "Y70FJJQ6ig0TYFipDnNUp42u8TFdr0Vkco7JkIDr"
+                    },
+                    "address": null,
+                    "device_id_ios": "F772DDB1-059B-42A1-95B8-337C52FF07E1",
+                    "device_id_android": "0E375EC4-AD94-4E15-8FD8-E19BE6E712EE",
+                    "device_fp": "38d7f9b4b5793",
+                    "enable_mission": true,
+                    "enable_game_sign": true,
+                    "enable_resin": true,
+                    "enable_weibo": false,
+                    "platform": "ios",
+                    "mission_games": [
+                        "StarRailMission"
+                    ],
+                    "user_stamina_threshold": 240,
+                    "user_resin_threshold": 160,
+                    "weibo_cookie": "",
+                    "weibo_params": ""
+                }
+            }
+        }
+    }
+}
